@@ -1,0 +1,38 @@
+[
+  {
+    "campaign_id": "cmp_001",
+    "campaign_date": "2026-04-13",
+    "blog_title": "How Ai In Creative Automation Is Reshaping Creative Agency Workflows",
+    "topic": "AI in creative automation",
+    "channel": "email",
+    "status": "draft",
+    "generation_source": "mock",
+    "audience_count": 3,
+    "audience": [
+      {
+        "name": "Jane Smith",
+        "email": "jane@brightagency.com",
+        "persona": "Creative Agency Founder",
+        "newsletter_subject": "A smarter way to scale ai in creative automation",
+        "newsletter_body": "As agency leaders look for ways to grow without adding unnecessary overhead, AI-powered automation is becoming a practical advantage. This week’s blog breaks down how agencies can reduce repetitive work, move faster, and free up teams for higher-value creative decisions.",
+        "status": "ready_to_send"
+      },
+      {
+        "name": "Alex Kim",
+        "email": "alex@brightagency.com",
+        "persona": "Operations Manager",
+        "newsletter_subject": "How to streamline operations with ai in creative automation",
+        "newsletter_body": "If your team is juggling deadlines, approvals, and scattered tools, this week’s blog is for you. We look at how AI can support routing, coordination, and workflow visibility so projects move with fewer bottlenecks.",
+        "status": "ready_to_send"
+      },
+      {
+        "name": "Maya Lopez",
+        "email": "maya@brightagency.com",
+        "persona": "Marketing Lead",
+        "newsletter_subject": "Turn one idea into more campaign output",
+        "newsletter_body": "This week’s post explores how AI can help marketing teams repurpose one idea across blog, email, and other channels. It is a useful look at how to increase output while keeping messaging focused and relevant.",
+        "status": "ready_to_send"
+      }
+    ]
+  }
+]

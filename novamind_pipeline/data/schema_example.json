@@ -1,0 +1,27 @@
+{
+  "topic": "AI in creative automation",
+  "personas": [
+    "Creative Agency Founder",
+    "Operations Manager",
+    "Marketing Lead"
+  ],
+  "blog_title": "How AI Is Changing Creative Agency Workflows",
+  "blog_outline": [
+    "Why agencies are overwhelmed by repetitive work",
+    "Where AI fits into creative operations",
+    "Examples of automations across teams",
+    "Risks and best practices",
+    "What agencies should do next"
+  ],
+  "blog_draft": "",
+  "newsletters": {
+    "Creative Agency Founder": "",
+    "Operations Manager": "",
+    "Marketing Lead": ""
+  },
+  "campaign_metadata": {
+    "campaign_id": "cmp_001",
+    "campaign_date": "2026-04-13",
+    "status": "draft"
+  }
+}
