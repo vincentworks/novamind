@@ -1,0 +1,219 @@
+{
+  "contact_upsert_request": {
+    "inputs": [
+      {
+        "id": "jane@brightagency.com",
+        "idProperty": "email",
+        "properties": {
+          "email": "jane@brightagency.com",
+          "firstname": "Jane",
+          "lastname": "Smith",
+          "custom_persona": "Creative Agency Founder"
+        }
+      },
+      {
+        "id": "alex@brightagency.com",
+        "idProperty": "email",
+        "properties": {
+          "email": "alex@brightagency.com",
+          "firstname": "Alex",
+          "lastname": "Kim",
+          "custom_persona": "Operations Manager"
+        }
+      },
+      {
+        "id": "maya@brightagency.com",
+        "idProperty": "email",
+        "properties": {
+          "email": "maya@brightagency.com",
+          "firstname": "Maya",
+          "lastname": "Lopez",
+          "custom_persona": "Marketing Lead"
+        }
+      }
+    ]
+  },
+  "contact_upsert_response": {
+    "completedAt": "2026-04-13T22:23:18.066Z",
+    "status": "COMPLETE",
+    "startedAt": "2026-04-13T22:23:17.764Z",
+    "results": [
+      {
+        "id": "470573573879",
+        "properties": {
+          "createdate": "2026-04-13T22:23:17.811Z",
+          "custom_persona": "Operations Manager",
+          "email": "alex@brightagency.com",
+          "firstname": "Alex",
+          "hs_all_contact_vids": "470573573879",
+          "hs_associated_target_accounts": "0",
+          "hs_currently_enrolled_in_prospecting_agent": "false",
+          "hs_email_domain": "brightagency.com",
+          "hs_full_name_or_email": "Alex Kim",
+          "hs_is_contact": "true",
+          "hs_is_unworked": "true",
+          "hs_lifecyclestage_lead_date": "1776118997811",
+          "hs_membership_has_accessed_private_content": "0",
+          "hs_object_id": "470573573879",
+          "hs_object_source": "INTEGRATION",
+          "hs_object_source_id": "36660274",
+          "hs_object_source_label": "INTEGRATION",
+          "hs_pipeline": "contacts-lifecycle-pipeline",
+          "hs_prospecting_agent_actively_enrolled_count": "0",
+          "hs_prospecting_agent_total_enrolled_count": "0",
+          "hs_registered_member": "0",
+          "hs_sequences_actively_enrolled_count": "0",
+          "hs_v2_date_entered_current_stage": "2026-04-13T22:23:17.811Z",
+          "hs_v2_time_in_current_stage": "2026-04-13T22:23:17.811Z",
+          "lastmodifieddate": "2026-04-13T22:23:17.811Z",
+          "lastname": "Kim",
+          "lifecyclestage": "lead",
+          "num_notes": "0"
+        },
+        "createdAt": "2026-04-13T22:23:17.811Z",
+        "updatedAt": "2026-04-13T22:23:17.811Z",
+        "archived": false,
+        "url": "https://app-na2.hubspot.com/contacts/245897066/record/0-1/470573573879",
+        "new": true
+      },
+      {
+        "id": "470573573878",
+        "properties": {
+          "createdate": "2026-04-13T22:23:17.811Z",
+          "custom_persona": "Creative Agency Founder",
+          "email": "jane@brightagency.com",
+          "firstname": "Jane",
+          "hs_all_contact_vids": "470573573878",
+          "hs_associated_target_accounts": "0",
+          "hs_currently_enrolled_in_prospecting_agent": "false",
+          "hs_email_domain": "brightagency.com",
+          "hs_full_name_or_email": "Jane Smith",
+          "hs_is_contact": "true",
+          "hs_is_unworked": "true",
+          "hs_lifecyclestage_lead_date": "1776118997811",
+          "hs_membership_has_accessed_private_content": "0",
+          "hs_object_id": "470573573878",
+          "hs_object_source": "INTEGRATION",
+          "hs_object_source_id": "36660274",
+          "hs_object_source_label": "INTEGRATION",
+          "hs_pipeline": "contacts-lifecycle-pipeline",
+          "hs_prospecting_agent_actively_enrolled_count": "0",
+          "hs_prospecting_agent_total_enrolled_count": "0",
+          "hs_registered_member": "0",
+          "hs_sequences_actively_enrolled_count": "0",
+          "hs_v2_date_entered_current_stage": "2026-04-13T22:23:17.811Z",
+          "hs_v2_time_in_current_stage": "2026-04-13T22:23:17.811Z",
+          "lastmodifieddate": "2026-04-13T22:23:17.811Z",
+          "lastname": "Smith",
+          "lifecyclestage": "lead",
+          "num_notes": "0"
+        },
+        "createdAt": "2026-04-13T22:23:17.811Z",
+        "updatedAt": "2026-04-13T22:23:17.811Z",
+        "archived": false,
+        "url": "https://app-na2.hubspot.com/contacts/245897066/record/0-1/470573573878",
+        "new": true
+      },
+      {
+        "id": "470573573880",
+        "properties": {
+          "createdate": "2026-04-13T22:23:17.811Z",
+          "custom_persona": "Marketing Lead",
+          "email": "maya@brightagency.com",
+          "firstname": "Maya",
+          "hs_all_contact_vids": "470573573880",
+          "hs_associated_target_accounts": "0",
+          "hs_currently_enrolled_in_prospecting_agent": "false",
+          "hs_email_domain": "brightagency.com",
+          "hs_full_name_or_email": "Maya Lopez",
+          "hs_is_contact": "true",
+          "hs_is_unworked": "true",
+          "hs_lifecyclestage_lead_date": "1776118997811",
+          "hs_membership_has_accessed_private_content": "0",
+          "hs_object_id": "470573573880",
+          "hs_object_source": "INTEGRATION",
+          "hs_object_source_id": "36660274",
+          "hs_object_source_label": "INTEGRATION",
+          "hs_pipeline": "contacts-lifecycle-pipeline",
+          "hs_prospecting_agent_actively_enrolled_count": "0",
+          "hs_prospecting_agent_total_enrolled_count": "0",
+          "hs_registered_member": "0",
+          "hs_sequences_actively_enrolled_count": "0",
+          "hs_v2_date_entered_current_stage": "2026-04-13T22:23:17.811Z",
+          "hs_v2_time_in_current_stage": "2026-04-13T22:23:17.811Z",
+          "lastmodifieddate": "2026-04-13T22:23:17.811Z",
+          "lastname": "Lopez",
+          "lifecyclestage": "lead",
+          "num_notes": "0"
+        },
+        "createdAt": "2026-04-13T22:23:17.811Z",
+        "updatedAt": "2026-04-13T22:23:17.811Z",
+        "archived": false,
+        "url": "https://app-na2.hubspot.com/contacts/245897066/record/0-1/470573573880",
+        "new": true
+      }
+    ]
+  },
+  "mock_single_send_requests": [
+    {
+      "recipient_email": "jane@brightagency.com",
+      "persona": "Creative Agency Founder",
+      "hubspot_single_send_payload": {
+        "emailId": 123456789,
+        "message": {
+          "to": "jane@brightagency.com"
+        },
+        "contactProperties": {
+          "custom_persona": "Creative Agency Founder"
+        },
+        "customProperties": {
+          "blog_title": "How Ai In Creative Automation Is Reshaping Creative Agency Workflows",
+          "campaign_id": "cmp_001",
+          "campaign_date": "2026-04-13",
+          "newsletter_subject": "A smarter way to scale ai in creative automation",
+          "newsletter_body": "As agency leaders look for ways to grow without adding unnecessary overhead, AI-powered automation is becoming a practical advantage. This week’s blog breaks down how agencies can reduce repetitive work, move faster, and free up teams for higher-value creative decisions."
+        }
+      }
+    },
+    {
+      "recipient_email": "alex@brightagency.com",
+      "persona": "Operations Manager",
+      "hubspot_single_send_payload": {
+        "emailId": 123456789,
+        "message": {
+          "to": "alex@brightagency.com"
+        },
+        "contactProperties": {
+          "custom_persona": "Operations Manager"
+        },
+        "customProperties": {
+          "blog_title": "How Ai In Creative Automation Is Reshaping Creative Agency Workflows",
+          "campaign_id": "cmp_001",
+          "campaign_date": "2026-04-13",
+          "newsletter_subject": "How to streamline operations with ai in creative automation",
+          "newsletter_body": "If your team is juggling deadlines, approvals, and scattered tools, this week’s blog is for you. We look at how AI can support routing, coordination, and workflow visibility so projects move with fewer bottlenecks."
+        }
+      }
+    },
+    {
+      "recipient_email": "maya@brightagency.com",
+      "persona": "Marketing Lead",
+      "hubspot_single_send_payload": {
+        "emailId": 123456789,
+        "message": {
+          "to": "maya@brightagency.com"
+        },
+        "contactProperties": {
+          "persona": "Marketing Lead"
+        },
+        "customProperties": {
+          "blog_title": "How Ai In Creative Automation Is Reshaping Creative Agency Workflows",
+          "campaign_id": "cmp_001",
+          "campaign_date": "2026-04-13",
+          "newsletter_subject": "Turn one idea into more campaign output",
+          "newsletter_body": "This week’s post explores how AI can help marketing teams repurpose one idea across blog, email, and other channels. It is a useful look at how to increase output while keeping messaging focused and relevant."
+        }
+      }
+    }
+  ]
+}
