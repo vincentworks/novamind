@@ -86,9 +86,7 @@ This creates a closed-loop system: content → segmentation → distribution →
 - Python 3  
 - HubSpot CRM API  
   - `/crm/v3/objects/contacts/batch/upsert`  
-- OpenAI API (optional, with fallback)  
-- `requests` for HTTP calls  
-- `python-dotenv` for environment configuration  
+- OpenAI API (optional, with fallback)   
 - JSON files for structured local storage  
 
 ## Assumptions
