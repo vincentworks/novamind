@@ -9,19 +9,19 @@ The pipeline is designed to show how a startup growth team could connect content
 ## Architecture Overview
 
 Input Topic
-    ↓
+    →
 AI Content Generation (Open AI and Mock Fallback)
-    ↓
+    →
 Structured Content Storage (JSON)
-    ↓
+    →
 CRM Segmentation (Persona-based)
-    ↓
+    →
 HubSpot Contact Upsert (Real API)
-    ↓
+    →
 Campaign Distribution (Simulated Payloads)
-    ↓
+    →
 Performance Simulation and Aggregation
-    ↓
+    →
 Insight Generation 
 
 This creates a closed-loop system: content → segmentation → distribution → performance → optimization.
