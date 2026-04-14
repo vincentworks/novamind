@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jane Smith",
+    "email": "jane@brightagency.com",
+    "custom_persona": "Creative Agency Founder"
+  },
+  {
+    "name": "Alex Kim",
+    "email": "alex@brightagency.com",
+    "custom_persona": "Operations Manager"
+  },
+  {
+    "name": "Maya Lopez",
+    "email": "maya@brightagency.com",
+    "custom_persona": "Marketing Lead"
+  }
+]
